@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 import Home from './page/Home';
 import Report from "./page/Report";
-import AddExpense from "./page/AddExpense";
 
 function App() {
   return (
